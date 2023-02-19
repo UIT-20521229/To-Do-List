@@ -1,0 +1,16 @@
+{
+    "translation": {
+
+        "missionOverview": "Tổng quan nhiệm vụ",
+        "complete" : "Hoàn thành",
+        "remain" : "Còn lại",
+        "mission" : "Nhiệm vụ",
+        "mon": "T2",
+        "tue": "T3",
+        "wed": "T4",
+        "thur": "T5",
+        "fri": "T6",
+        "sat": "T7",
+        "sun": "CN"
+    }
+}

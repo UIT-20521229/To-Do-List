@@ -1,0 +1,12 @@
+{
+    "translation": {
+        "page" : " Today's Mission",
+        "todo" : "Todo",
+        "completed": "Completed",
+        "remain" : "remaining",
+        "title" : " Warning!!!",
+        "text" : "You really want to delete?",
+        "ok": "OK",
+        "cancel" : "Cancel"
+    }
+}

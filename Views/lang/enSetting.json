@@ -1,0 +1,18 @@
+{
+    "translation": {
+        "pre" : "PREFERENCES",
+        "lang" : " Language",
+        "mode" : "Dark Mode",
+        "completed": "Completed",
+        "remain" : "remaining",
+        "help" : "HELP",
+        "report" : "Report Bug",
+        "contact": "Contact Us",
+        "content" : "CONTENT",
+        "save" : "Saved",
+        "down" : "Download",
+        "setting": "Setting",
+        "language": "English"
+
+    }
+}

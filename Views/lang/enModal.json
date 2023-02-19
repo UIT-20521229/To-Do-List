@@ -1,0 +1,10 @@
+{
+    "translation": {
+        "header" : " Create Todo List",
+        "placeholder" : "List Name",
+        "create": "Create",
+        "change": "Change Task",
+        "save": "Save"
+        
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "translation": {
+        "email" : " Email",
+        "password" : "Password",
+        "emailError": "Email not incorrect format",
+        "passworderror" : "Password must be >= 6 characters",
+        "account" : "đăng kí thành công!",
+        "signIn": "Đăng nhập",
+        "signUp": "Đăng ký"
+    }
+}
